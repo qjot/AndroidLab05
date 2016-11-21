@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLab05</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment View 1</string>
+    <string name="hello_blank_fragment2">Fragment View 2</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLab05</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Tekst fragmentu numer 1 po polsku</string>
+    <string name="hello_blank_fragment2">Tekst fragmentu numer 2 po polsku</string>
+</resources>
